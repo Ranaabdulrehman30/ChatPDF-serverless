@@ -9,8 +9,9 @@ This sample application allows you to ask natural language questions of any PDF 
 </p>
 
 ## DEMO VIDEO
+https://github.com/Ranaabdulrehman30/ChatPDF-serverless/assets/96223013/889fe842-f9d7-4b41-8b0d-6e530ed15803
 
-https://github.com/Ranaabdulrehman30/ChatPDF-serverless/assets/96223013/8fcf50d3-acc1-4bc1-bd41-9d1f605dae1a
+
 
 > **Warning**
 > 
