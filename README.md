@@ -1,4 +1,4 @@
-# Serverless document chat application
+# TAXGPT Coding Assignment.
 
 This sample application allows you to ask natural language questions of any PDF document you upload. It combines the text generation and analysis capabilities of an LLM with a vector search of the document content. The solution uses serverless services such as [Amazon Bedrock](https://aws.amazon.com/bedrock/) to access foundational models, [AWS Lambda](https://aws.amazon.com/lambda/) to run [LangChain](https://github.com/hwchase17/langchain), and [Amazon DynamoDB](https://aws.amazon.com/dynamodb/) for conversational memory.
 
@@ -6,6 +6,12 @@ This sample application allows you to ask natural language questions of any PDF 
 <p float="left">
   <img src="preview-1.png" width="49%" />
   <img src="preview-2.png" width="49%" />
+</p>
+
+## DEMO VIDEO
+
+<p float="left">
+  <img src="Recorded-Demo.mp4" width="49%" />
 </p>
 
 > **Warning**
@@ -214,6 +220,7 @@ This application was written for demonstration and educational purposes and not 
 
 - If your security controls require inspecting network traffic, consider [adjusting the AWS SAM template](https://docs.aws.amazon.com/serverless-application-model/latest/developerguide/sam-resource-function.html) to attach the Lambda functions to a VPC via its [`VpcConfig`](https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/aws-properties-lambda-function-vpcconfig.html).
 
-
+## I have taken help from here!
 See the [accompanying blog post on the AWS Serverless Blog](https://aws.amazon.com/blogs/compute/building-a-serverless-document-chat-with-aws-lambda-and-amazon-bedrock/) for a detailed description.
-I have taken help from here!
+
+I am not the frontend dude, so the frontend template is copied!
